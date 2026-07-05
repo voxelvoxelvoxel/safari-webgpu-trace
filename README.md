@@ -16,7 +16,7 @@ Everything else the script uses (`notifyutil`, `open`, `pgrep`) ships with macOS
 ## Install
 
 ```sh
-curl -O https://raw.githubusercontent.com/<you>/<repo>/main/openDebugSafari.sh
+curl -O https://raw.githubusercontent.com/voxelvoxelvoxel/safari-webgpu-trace/main/openDebugSafari.sh
 chmod +x openDebugSafari.sh
 ```
 
